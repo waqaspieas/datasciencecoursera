@@ -1,0 +1,10 @@
+---
+title: "HelloWorld"
+author: "Muhammad Waqas"
+date: "2024-06-28"
+output:
+  word_document: default
+  html_document: default
+---
+
+## This is a markdown file
